@@ -3,7 +3,7 @@ title: 'Lorem Ipsum'
 status: 'draft'
 author:
   name: 'Bagas Wastu'
-  picture: 'https://avatars.githubusercontent.com/u/67826350?v=4'
+  picture: ''
 slug: 'lorem-ipsum-dolor'
 description: ''
 coverImage: ''
